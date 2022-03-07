@@ -1,0 +1,7 @@
+# Torch - Torchvision - IceVision - IceData - MMDetection - YOLOv5 - EfficientDet Installation
+!wget https://raw.githubusercontent.com/airctic/icevision/master/icevision_install.sh
+
+# Choose your installation target: cuda11 or cuda10 or cpu
+!bash icevision_install.sh cuda11
+
+# !pip install pillow==8.2.0
